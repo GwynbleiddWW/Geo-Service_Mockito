@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5618e0f0-914c-4930-9b6a-2513afd56232" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pLS3DWawmKVZSBCcpH8BSOmwnz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/ru/netology" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Konstantin\IdeaProjects\geoService\geo-service2\src\main" />
+      <recent name="C:\Users\Konstantin\IdeaProjects\geoService\geo-service2\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.i18n" />
+      <recent name="ru.netology.geo" />
+      <recent name="ru.netology.sender" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All Tests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="geo-service2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Tests" type="JUnit" factoryName="JUnit">
+      <module name="Geo-Service_Mockito" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test/java/ru/netology" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeoServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.geo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.geo" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.geo.GeoServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeoServiceImplTest.byIp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.geo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.geo" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.geo.GeoServiceImplTest" />
+      <option name="METHOD_NAME" value="byIp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalizationServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.i18n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.i18n" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.i18n.LocalizationServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalizationServiceImplTest.locale" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.i18n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.i18n" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.i18n.LocalizationServiceImplTest" />
+      <option name="METHOD_NAME" value="locale" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All Tests" />
+      <item itemvalue="JUnit.GeoServiceImplTest" />
+      <item itemvalue="JUnit.GeoServiceImplTest.byIp" />
+      <item itemvalue="JUnit.LocalizationServiceImplTest" />
+      <item itemvalue="JUnit.LocalizationServiceImplTest.locale" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LocalizationServiceImplTest.locale" />
+        <item itemvalue="JUnit.GeoServiceImplTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.LocalizationServiceImplTest" />
+        <item itemvalue="JUnit.GeoServiceImplTest.byIp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5618e0f0-914c-4930-9b6a-2513afd56232" name="Default Changelist" comment="" />
+      <created>1614960677297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614960677297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
